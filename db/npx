@@ -1,0 +1,18 @@
+--watch/-w can be omitted, JSON Server 1+ watches for file changes by default
+JSON Server started on PORT :3001
+Press CTRL-C to stop
+Watching db.json...
+
+♡⸜(˶˃ ᵕ ˂˶)⸝♡
+
+Index:
+http://localhost:3001/
+
+Static files:
+Serving ./public directory if it exists
+
+Endpoints:
+http://localhost:3001/posts
+http://localhost:3001/profile
+http://localhost:3001/suggestions
+http://localhost:3001/story

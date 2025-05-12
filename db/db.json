@@ -1,0 +1,130 @@
+{
+"posts": [
+    {
+      "id": 1,
+      "username": "john_doe",
+      "profile_picture": "src/assets/Pro1.jpg",
+      "post_image": "src/assets/Post1.jpg",
+      "caption": "Enjoying the sunny weather! ☀️ #vacation",
+      "likes": 120,
+      "comments": [
+        {
+          "username": "jane_smith",
+          "comment": "Looks amazing!"
+        },
+        {
+          "username": "alex_99",
+          "comment": "Wish I was there!"
+        }
+      ],
+      "timestamp": "2025-04-27T10:30:00Z"
+    },
+    {
+      "id": 2,
+      "username": "emma_watson",
+      "profile_picture": "src/assets/Profile2.jpeg",
+      "post_image": "src/assets/Post2.jpeg",
+      "caption": "Coffee time ☕️ #morningvibes",
+      "likes": 342,
+      "comments": [
+        {
+          "username": "coffee_lover",
+          "comment": "Yumm!"
+        }
+      ],
+      "timestamp": "2025-04-27T08:15:00Z"
+    },
+    {
+      "id": 3,
+      "username": "travel_guru",
+      "profile_picture": "src/assets/Pro2.jpg",
+      "post_image": "src/assets/Post3.jpg",
+      "caption": "Exploring new cities 🌍",
+      "likes": 500,
+      "comments": [],
+      "timestamp": "2025-04-26T16:45:00Z"
+    }
+  ],
+  "profile":{
+      "id": 1,
+      "username": "john_doe",
+      "profile_picture": "src/assets/Pro1.jpg"
+  },
+  "suggestions":[
+      {"id": 101,
+      "username": "emma watson",
+      "profile_picture": "src/assets/Profile2.jpeg"
+      },
+      {
+        "id": 102,
+      "username": "ms dhoni",
+      "profile_picture": "src/assets/Pro2.jpg"
+      },
+      {
+        "id": 103,
+      "username": "thiran",
+      "profile_picture": "src/assets/Pro1.jpg"
+      },
+      {"id": 104,
+      "username": "watson",
+      "profile_picture": "src/assets/Profile2.jpeg"
+      },
+      {
+        "id": 105,
+      "username": "msd_qui",
+      "profile_picture": "src/assets/Pro2.jpg"
+      },
+      {
+        "id": 106,
+      "username": "_techie",
+      "profile_picture": "src/assets/Pro1.jpg"
+      }
+    ],
+    "story": [
+    {
+      "id": 1001,
+      "username": "john_doe",
+      "profile_picture": "src/assets/Pro1.jpg",
+      "s_image": "src/assets/story1.jpeg"
+      
+    },
+    {
+      "id": 1002,
+      "username": "emma_watson",
+      "profile_picture": "src/assets/Profile2.jpeg",
+      "s_image": "src/assets/story2.jpg"
+      
+    },
+    {
+      "id": 1003,
+      "username": "travel_guru",
+    "profile_picture": "src/assets/Pro2.jpg",
+      "s_image": "src/assets/story3.jpg"
+      
+    },
+    {
+      "id": 1004,
+      "username": "x_spark",
+    "profile_picture": "src/assets/Profile2.jpeg",
+      "s_image": "src/assets/story3.jpg"
+      
+    },
+    {
+      "id": 1005,
+      "username": "Little_mary",
+    "profile_picture": "src/assets/Pro2.jpg",
+      "s_image": "src/assets/story3.jpg"
+      
+    },
+    {
+      "id": 1006,
+      "username": "michela_kan",
+    "profile_picture": "src/assets/Profile2.jpeg",
+      "s_image": "src/assets/story3.jpg"
+      
+    }
+  ]
+}
+
+
+  
